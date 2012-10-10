@@ -111,6 +111,7 @@ export JAVA_HOME=/usr/lib/jvm/java-6-sun
 export PATH=$PATH:$HADOOP_HOME/bin:$HBASE_HOME/bin:/usr/local/enthought/bin
 
 alias h='hadoop fs'
+alias www='sudo -u www-data'
 
 export MSD=54.251.57.230
 export EC2=184.72.33.40

@@ -215,3 +215,5 @@ augroup filetypedetect
   au BufNewFile,BufRead *.piglet set filetype=pig syntax=pig 
 augroup END 
 
+" I don't like line number to be set
+set nonu
